@@ -89,7 +89,6 @@
   "scripts": {
     "init": "npm install",
     "install": "bower install",
-    "install": "gem install sass",
-    "start": "gulp serve"
+    "install": "gem install sass"
   }
 }
