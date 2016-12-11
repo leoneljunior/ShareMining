@@ -50,7 +50,7 @@ Design by [flatlogic.com](http://flatlogic.com/)
 ## Deploy to Github pages  
   
     $ gulp build
-    $ gulp deploy
+    $ gulp deploy 
 
 ## Community
 - [Tweet about it](https://twitter.com/intent/tweet?text=Angular%20Material%20Dashboard%20https://github.com/flatlogic/angular-material-dashboard%20via%20@flatlogicinc) to support revolution in classic paid templates market.
