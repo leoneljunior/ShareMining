@@ -6,7 +6,8 @@ var app = express();
 var port = process.env.PORT || 8080;
 
 // make express look in the public directory for assets (css/js/img)
-app.use(express.static(__dirname + '/app'));
+app.use(express.static(__dirname + '/src'));
+
 app.use('/bower_components',  express.static(__dirname + '/bower_components'));
 
 app.engine('html', require('ejs').renderFile);
