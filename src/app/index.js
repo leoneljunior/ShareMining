@@ -39,7 +39,7 @@ angular.module('angularMaterialAdmin', ['ngAnimate', 'ngCookies', 'ngTouch',
         }
       });
 
-    $urlRouterProvider.otherwise('/graficos');
+    $urlRouterProvider.otherwise('/nuvens');
 
     $mdThemingProvider
       .theme('default')

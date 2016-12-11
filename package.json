@@ -88,6 +88,7 @@
   },
   "scripts": {
     "init": "npm install",
-    "install": "bower install"
+    "install": "bower install",
+    "install": "gem install sass"
   }
 }
